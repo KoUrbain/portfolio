@@ -35,8 +35,11 @@ h2.entete{
 }
 .smallDiv{
     text-align: center;
-    width: 60%; /* You can adjust this value based on your needs */
-   /* border: 1px solid #000; /* Optional: Add a border for visibility */
-    padding: 10px; /* Optional: Add padding for spacing */
+    width: 60%; 
+    padding: 10px;
     margin: 0 auto;
+}
+body{
+    background-image: url(images.jpeg);
+    background-size: cover;
 }
